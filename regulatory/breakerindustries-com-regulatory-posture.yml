@@ -1,0 +1,12 @@
+generated: '2026-10-22'
+source: https://breakerindustries.com/privacy/
+method: probed
+signals:
+  data_subject_request:
+    evidence:
+      source: https://breakerindustries.com/privacy/
+      http_status: 200
+      fetched: true
+      quote: "If you are in the European Union, the United Kingdom or a US state with its own privacy law, you may have further rights under that law, such as data portability. Ask and we will honour them."
+      section: "08. Your rights"
+    note: Provides data subject rights including portability upon request.

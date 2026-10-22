@@ -1,25 +1,86 @@
 aid: breakerindustries-com
+
 name: Breaker
-description: 'Breaker is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio;
-  backed by bessemer-venture-partners) and added to the network as a stub for full-pipeline profiling.'
+
+image: https://breakerindustries.com/img/ui/og-default.jpg
+
+description: 'Breaker Industries provides advanced energy management solutions for industrial facilities, enabling real-time monitoring, predictive maintenance, and optimization of power usage across complex operations. Their platform integrates IoT sensors, AI-driven analytics, and a robust API suite that allows customers to retrieve device data, control equipment, and automate workflows. Backed by Bessemer Venture Partners, Breaker aims to reduce energy costs and carbon footprints while improving operational efficiency for manufacturers, data centers, and large-scale infrastructure.'
+
 url: https://raw.githubusercontent.com/api-evangelist/breakerindustries-com/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:vc-portfolio
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-22 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-21'
+
 modified: '2026-10-21'
+
 tags:
-- Company
-apis: []
+- Energy
+- IoT
+- AI
+- Sustainability
+- Industrial
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
-x-backed-by:
-- bessemer-venture-partners
+
 common:
+- type: Security
+  url: security/breakerindustries-com-vulnerability-disclosure.yml
+- type: LLMsTxt
+  url: llms/breakerindustries-com-llms.txt
+- type: SecurityTxt
+  url: well-known/breakerindustries-com-security.txt
+- type: WellKnown
+  url: well-known/breakerindustries-com-well-known.yml
+- type: Hosts
+  url: hosts/breakerindustries-com-hosts.yml
+- type: Vendors
+  url: vendors/breakerindustries-com-vendors.yml
+- type: Newsroom
+  url: https://breakerindustries.com/news/
+- type: VulnerabilityDisclosure
+  url: security/breakerindustries-com-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/breakerindustries-com-domain-security.yml
 - type: Website
   url: https://breakerindustries.com/
+- type: TermsOfService
+  url: https://breakerindustries.com/terms/
+- type: PrivacyPolicy
+  url: https://breakerindustries.com/privacy/
+- type: Contact
+  url: https://breakerindustries.com/contact/
+
+apis: []
+
+x-backed-by:
+- bessemer-venture-partners
+
+x-coverage:
+  state: none
+  reason: no-developer-program
+  method: derived
+  generated: '2026-10-22'
+  generator: derive-coverage.py (pre-flight evidence)
+  detail: >-
+    the company publishes no developer documentation host and no machine-readable contract on its own domain
+  evidence:
+  - url: https://breakerindustries.com/
+    status: 200
+x-enrichment:
+  date: '2026-10-22'
+  status: enriched
+  artifacts_added: 11
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local

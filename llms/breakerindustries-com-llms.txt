@@ -1,0 +1,35 @@
+# Breaker Industries
+
+> Breaker builds Avalon, an AI agent that runs onboard robots so one operator can command a team of drones, ground vehicles and uncrewed vessels by voice over a push-to-talk radio, with no cloud link. Breaker is headquartered in Austin, Texas, with engineering in Sydney, Australia. Founded in 2023, it raised a US$6M seed round led by Bessemer Venture Partners (17 February 2026) and received an AU$1.2M Australian Government Industry Growth Program grant (11 June 2026).
+
+Facts: Company name Breaker Industries, trading as Breaker. Founded 2023. Co-founders: Matthew Buffa (co-CEO, Austin), Michael Irwin (co-CEO, Sydney) and Vanja Videnovic (CTO). Partner: Rheinmetall, integrating Avalon into the Australian Boxer CRV (teaming agreement announced 6 October 2026). Offices: Austin, Texas, USA (Capital Factory); Sydney, NSW, Australia (Cicada Innovations, Eveleigh). Holds AUKUS Authorised User status. Contact: contact@breakerindustries.com. Media: media@breakerindustries.com.
+
+## Product
+
+- [Avalon](https://breakerindustries.com/avalon/): The Avalon agent, how it works, product lines (Lite, Core, Heavy, Ultra), supported platforms and command systems (ATAK, Lattice, ROS 2, MAVLink, PX4, ArduPilot, DDS), and an FAQ.
+
+## Company
+
+- [About](https://breakerindustries.com/about/): Mission, founders and team across Austin and Sydney.
+- [Careers](https://breakerindustries.com/careers/): Open roles, each with a hosted description. Applications are handled on Workable, one posting per role.
+- [Contact](https://breakerindustries.com/contact/): Demo requests, integrations and partnership enquiries.
+
+## News
+
+- [Breaker joins the Chief of Army Symposium industry panel at Land Forces 2026](https://breakerindustries.com/news/michael-irwin-land-forces-2026-industry-panel/): Michael Irwin on autonomy at the tactical edge, alongside Anduril, BAE Systems, PentenAmio and IDES, 7 October 2026.
+- [Rheinmetall and Breaker bring voice-controlled tactical orchestration to the Boxer](https://breakerindustries.com/news/rheinmetall-and-breaker-bring-human-machine-teaming-to-armoured-vehicles/): Teaming agreement to integrate Avalon into the Australian Boxer CRV, 6 October 2026.
+- [Breaker raises US$6M seed round led by Bessemer Venture Partners](https://breakerindustries.com/news/breaker-raises-6m-seed-round-led-by-bessemer-venture-partners/): Seed funding announcement, 17 February 2026.
+- [Breaker secures AU$1.2M Australian Government grant](https://breakerindustries.com/news/breaker-secures-au-1-2m-australian-government-grant/): Industry Growth Program grant to commercialise Avalon, 11 June 2026.
+- [Australian Army land capability leaders visit Breaker in Austin](https://breakerindustries.com/news/australian-army-land-capability-delegation-visits-breaker-in-austin/): 29 September 2026.
+- [Breaker keynotes the Australian British Defence Catalyst in London](https://breakerindustries.com/news/breaker-keynotes-australian-british-defence-catalyst-london/): 15 July 2026.
+- [The 5 layers of the modern autonomy stack](https://breakerindustries.com/news/the-5-layers-of-the-modern-autonomy-stack/): Essay on tactical orchestration, 5 March 2026.
+- [The DoD's most expensive capability gap](https://breakerindustries.com/news/the-dods-most-expensive-capability-gap/): Essay on the operator bottleneck, 3 February 2026.
+- [RSS feed](https://breakerindustries.com/news/rss.xml): All news in RSS 2.0.
+
+## Optional
+
+- [Foxglove case study](https://breakerindustries.com/news/foxglove-case-study-breaker-voice-first-autonomy/): How Breaker analyses field runs of Avalon, 1 June 2026.
+- [Breaker opens its US headquarters in Austin](https://breakerindustries.com/news/breaker-opens-office-in-austin/): 20 April 2025.
+- [Privacy policy](https://breakerindustries.com/privacy/)
+- [Terms and conditions](https://breakerindustries.com/terms/)
+- [Cookie policy](https://breakerindustries.com/cookies/)

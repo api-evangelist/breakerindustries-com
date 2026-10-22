@@ -1,0 +1,16 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:security@breakerindustries.com
+Expires: 2027-10-06T00:00:00.000Z
+Encryption: https://breakerindustries.com/.well-known/security.asc
+Preferred-Languages: en
+Canonical: https://breakerindustries.com/.well-known/security.txt
+-----BEGIN PGP SIGNATURE-----
+
+iJEEARYKADkWIQRPhlQX2IgXgSaLGfUajVGx5Qy5nwUCasRT+hsUgAAAAAAEAA5t
+YW51MiwyLjUrMS4xMiwwLDMACgkQGo1RseUMuZ/dTwD+OKLy4yCgYrVJShlGEzUB
+3bHRezefpRysG4BwW/OdeuMA/3KC1ylgFUwebE69Nq56dEYL0eAXEv7tGNY7zCME
+8UcM
+=+yUX
+-----END PGP SIGNATURE-----
